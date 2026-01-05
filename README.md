@@ -1,9 +1,6 @@
 # Image manipulator
 Made a simple image manipulator using python and some libraries.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://huggingface.co/spaces/YOUR_USERNAME/Visionary-Workbench)
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-
 > **A personalized Generative AI tool for rapid image manipulation.**
 
 ---
@@ -41,19 +38,14 @@ I built this project to demonstrate:
 
 ---
 
-## 📸 Demo
-
-*(Place a screenshot of your app here)*
-
-| Original | Instruction | Result |
-| :---: | :---: | :---: |
-| ![Input](https://raw.githubusercontent.com/timothybrooks/instruct-pix2pix/main/imgs/example.jpg) | *"Turn this into a cyberpunk city"* | ![Output](https://github.com/timothybrooks/instruct-pix2pix/raw/main/imgs/example.jpg) |
-
+* **This project's future:** Will be going live for everyone to enjoy very soon!
 ---
 
 ## 🤝 Contact
 
-**[YOUR NAME]**
+**Abhay K. Sharma**
 * *Python Developer & Creative Technologist*
-* [Link to your LinkedIn]
+* www.linkedin.com/in/abhay-kumar-sharma-a22a94171
+
+
 * [Link to your Portfolio]
